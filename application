@@ -1,0 +1,14 @@
+# Part 1
+
+- six-frame translation: confirm it's protein-coding and identify the correct frame
+- homology search: search for functional domains and homology to known proteins
+- functional annotation: identify conserved domains that might indicate virulence factors, toxins, or immunomodulatory functions
+- select agent cross-referencing: assess if it's a controlled sequence
+- risk assessment: represents a regulated pathogen or a functional part of a toxin?
+
+=> flag if it's from a regulated pathogen, encodes a known toxin/virulence factor, or could enhance pathogenicity
+
+# Part 2
+
+[GitHub link]
+
